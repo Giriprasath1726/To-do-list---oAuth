@@ -5,11 +5,6 @@
 
 A functional task management application built using the MERN (MongoDB, Express, React, Node.js) stack. The app allows users to manage tasks with features like user authentication (JWT & Google OAuth), task creation, task arrangement using drag-and-drop, and much more.
 
-![Task Manager App home](/images/home.png)
-![Task Manager App signup](/images/singup.png)
-![Task Manager App login](/images/login.png)
-![Task Manager App taskdetail](/images/taskdetails.png)
-![Task Manager App edittask](/images/taskedit.png)
 
 ## 🌟 Features
 
@@ -154,10 +149,6 @@ Feel free to fork the repository, submit issues, or make pull requests. Any cont
 
 This project is licensed under the MIT License.
 
-## 👨‍💻 Author
 
-**Razak** - [GitHub](https://github.com/razak571)
-
----
 
 ⭐️ If you found this project helpful, please give it a star on GitHub! ⭐️
